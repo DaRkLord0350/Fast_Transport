@@ -1,0 +1,107 @@
+
+.btn {
+    border-style: solid;margin: 2px;
+}
+.nav-links {
+    color: white;text-decoration: none;
+}
+h5{
+    color: black;
+}
+
+.steps-section{
+    position:relative;padding:100px 0px 70px;background-position:center center;background-repeat:no-repeat;margin-bottom: 75px;   
+}
+
+.steps-section .inner-container{
+    position:relative;padding:0px 70px;
+}
+
+.step-block{
+    position:relative;margin-bottom:30px;
+}
+
+.step-block .inner-box{
+    position:relative;text-align:center;
+}
+
+.step-block .inner-box:before{
+    position:absolute; content:''; right:-70px; top:60px;width:127px;height:59px;
+}
+
+.step-block:last-child .inner-box:before{
+    display:none;
+}
+
+.step-block .inner-box .icon-outer{
+    position:relative;display:inline-block;
+}
+
+.sec-title.centered{
+    text-align:center;
+}
+/* .step-block .step-section-v7:before{
+    background: url(../images/a1.png) center center no-repeat;
+}
+.step-block:nth-child(2) .step-section-v7:before {
+    background: url(https://themexriver.com/fastrans-theme/fastrans/wp-content/themes/fastrans/assets/images/shape/step-icon-2.png) center center no-repeat;
+} */
+
+.feature-section{
+    position:relative;
+    padding:100px 0px 80px;
+    margin-top:-100px;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+.feature-section:before{
+    position:absolute;
+    content:'';
+    left:0px;
+    top:0px;
+    right:0px;
+    bottom:0px;
+    opacity:0.90;
+    background-color: #686868;
+}
+
+.feature-block-two{
+    position:relative;
+    margin-bottom:30px;
+}
+
+.feature-block-two .inner-box{
+    position:relative;
+    padding:28px 20px;
+    border-radius:60px;
+    text-align:center;
+    background-color:#022b35;
+    border:2px solid #ffffff;
+    margin: 0 35px;
+}
+
+.feature-block-two .inner-box .icon{
+    position:relative;
+    width:48px;
+    height:48px;
+    color:#ffffff;
+    line-height:48px;
+    font-size:26px;
+    margin:0 auto;
+    border-radius:50px;
+    margin-bottom:18px;
+    font-family: "flaticon-v2"
+}
+.feature-block-two .inner-box h6{
+    color:#ffffff;
+    font-weight:700;
+}
+.feature-block-two .inner-box .text{
+    color:#ffffff;
+    font-weight:400;
+    font-size:16px;
+    margin-top:14px;
+}
+
+

@@ -1,0 +1,13 @@
+.hello {
+  font-weight: bold;
+  color: #000000;
+  background-color: #f0f3f15d;
+  border: 1px solid black;
+  opacity: 0.6;
+  text-align: start;
+  overflow: scroll;
+}
+
+h1 {
+  text-align: center;
+}

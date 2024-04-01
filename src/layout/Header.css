@@ -1,0 +1,31 @@
+/* .navbar {
+  background-color: #f0e4af;
+  opacity: 0.5;
+} */
+
+.navbar {
+  background-color: rgb(46, 43, 43);
+  opacity: 1;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600;800&family=Baloo+Bhaijaan+2:wght@700&family=Imperial+Script&family=Open+Sans:ital,wght@1,800&display=swap');
+
+.title {
+  font-family: 'Baloo Bhai 2', cursive;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-family: 'Imperial Script', cursive;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+Navbar.collapse.collapse{
+  background: rgb(46, 43, 43) !important;
+
+}
+
+
+.navbar-collapse.collapse.show {
+  background-color:grey;
+  
+}

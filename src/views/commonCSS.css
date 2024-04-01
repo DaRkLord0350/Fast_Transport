@@ -1,0 +1,114 @@
+.login,
+.registerCustom {
+    /* background: #554e4f;
+    
+    background: -webkit-linear-gradient(to left, #3f1e1e, #381e1e);
+     
+    background: linear-gradient(to left, #381e1e, #3f1e1e); */
+
+    
+    background-image: url("../images/Reg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.adminhomebg {
+    /* background: #bdc3c7;  
+    background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);  
+    background: linear-gradient(to top, #2c3e50, #bdc3c7);  */
+
+    /* background-image: url("http://anpsthemes.com/transport-new-demos/8/wp-content/uploads/2018/01/intro-img-3.jpg"); */
+    background-image: url("http://anpsthemes.com/transport-new-demos/8/wp-content/uploads/2018/01/intro-img-3.jpg");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    min-height: 60vw;
+}
+
+.transporterHomebg {
+    /* background: #C9D6FF;  
+    background: -webkit-linear-gradient(to bottom, #E2E2E2, #C9D6FF);  
+    background: linear-gradient(to bottom, #E2E2E2, #C9D6FF); */
+
+
+    background-image: url("../images/tranhome.webp");
+
+
+    opacity: 1;
+
+
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    min-height: 80vw;
+}
+
+.postbidbg {
+    min-height: 40vw;
+    background: #c31432;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #240b36, #c31432);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #240b36, #c31432);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white
+}
+
+.customerhomebg {
+
+    /* 
+    background: #ADA996; 
+    background: -webkit-linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+    background: linear-gradient(to bottom, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  */
+
+    
+    background-image: url("../images/cus.webp");
+    z-index: 1;
+    opacity: 1;
+
+
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.postaddform {
+    border-radius: 25px;
+    border: 0px solid;
+    box-shadow: 10 5 0 0;
+    background: -webkit-linear-gradient(to left, #78ffd6, #a8ff78);
+    background: linear-gradient(to left, #78ffd6, #a8ff78);
+
+
+
+}
+
+.postaddbg {
+    background-image: url("http://anpsthemes.com/transport-new-demos/8/wp-content/uploads/2018/01/intro-img-3.jpg");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+    z-index: 1;
+
+}
+
+.loginback {
+    background-image: url("http://anpsthemes.com/transport-new-demos/8/wp-content/uploads/2018/01/intro-img-3.jpg");
+    opacity: 0.8;
+    background-repeat: no-repeat;
+}
